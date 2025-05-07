@@ -14,8 +14,8 @@
     {{$client->lname}}<br>
     {{$client->fname}}<br>
     {{$client->mname}}<br>
-    {{$client->address}}<br
-    {{$client->contactno}}  <br>
+    {{$client->address}}<br 
+    {{$client->contactno}} <br>
     
 
 
